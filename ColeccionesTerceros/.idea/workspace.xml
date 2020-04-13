@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bb28aca-f3e7-45f6-8b44-09e9dcfb3945" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZwjPa35I6rM7fWudi3UoGunP0f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/net/openwebinars/collections/librerias" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.ApacheCommonsCollectionsTestApp">
+    <configuration name="ApacheCommonsCollectionsTestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.openwebinars.collections.librerias.apache.ApacheCommonsCollectionsTestApp" />
+      <module name="ColeccionesTerceros" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.openwebinars.collections.librerias.apache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EclipseCollectionsTestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.openwebinars.collections.librerias.eclipse.EclipseCollectionsTestApp" />
+      <module name="ColeccionesTerceros" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.openwebinars.collections.librerias.eclipse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuavaTestApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.openwebinars.collections.librerias.guava.GuavaTestApp" />
+      <module name="ColeccionesTerceros" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.openwebinars.collections.librerias.guava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuavaTestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuavaTestApp" />
+      <module name="ColeccionesTerceros" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColeccionesTerceros []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.ColeccionesTerceros []" />
+      <item itemvalue="Application.GuavaTestApp" />
+      <item itemvalue="Application.EclipseCollectionsTestApp" />
+      <item itemvalue="Application.ApacheCommonsCollectionsTestApp" />
+      <item itemvalue="Application.GuavaTestApp (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApacheCommonsCollectionsTestApp" />
+        <item itemvalue="Application.EclipseCollectionsTestApp" />
+        <item itemvalue="Application.GuavaTestApp (1)" />
+        <item itemvalue="Application.GuavaTestApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bb28aca-f3e7-45f6-8b44-09e9dcfb3945" name="Default Changelist" comment="" />
+      <created>1585757026877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585757026877</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="-1058" width="1071" height="773" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585758451315">
+      <screen x="-335" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="409" y="-1058" width="1071" height="773" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585758451315" />
+    <state width="1750" height="423" key="GridCell.Tab.0.bottom" timestamp="1585765669187">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2518" height="423" key="GridCell.Tab.0.bottom/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585759493823" />
+    <state width="1750" height="423" key="GridCell.Tab.0.bottom/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585765669187" />
+    <state width="2518" height="423" key="GridCell.Tab.0.bottom/0.23.1792.1097/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585758724557" />
+    <state width="1750" height="423" key="GridCell.Tab.0.center" timestamp="1585765669183">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2518" height="423" key="GridCell.Tab.0.center/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585759493822" />
+    <state width="1750" height="423" key="GridCell.Tab.0.center/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585765669183" />
+    <state width="2518" height="423" key="GridCell.Tab.0.center/0.23.1792.1097/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585758724556" />
+    <state width="1750" height="423" key="GridCell.Tab.0.left" timestamp="1585765669181">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2518" height="423" key="GridCell.Tab.0.left/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585759493821" />
+    <state width="1750" height="423" key="GridCell.Tab.0.left/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585765669181" />
+    <state width="2518" height="423" key="GridCell.Tab.0.left/0.23.1792.1097/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585758724555" />
+    <state width="1750" height="423" key="GridCell.Tab.0.right" timestamp="1585765669186">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2518" height="423" key="GridCell.Tab.0.right/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585759493822" />
+    <state width="1750" height="423" key="GridCell.Tab.0.right/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585765669186" />
+    <state width="2518" height="423" key="GridCell.Tab.0.right/0.23.1792.1097/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585758724557" />
+    <state width="2518" height="519" key="GridCell.Tab.1.bottom" timestamp="1585759429188">
+      <screen x="-335" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.bottom/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585759429188" />
+    <state width="2518" height="519" key="GridCell.Tab.1.center" timestamp="1585759429187">
+      <screen x="-335" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.center/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585759429187" />
+    <state width="2518" height="519" key="GridCell.Tab.1.left" timestamp="1585759429186">
+      <screen x="-335" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.left/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585759429186" />
+    <state width="2518" height="519" key="GridCell.Tab.1.right" timestamp="1585759429187">
+      <screen x="-335" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.right/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585759429187" />
+    <state x="454" y="-1081" key="SettingsEditor" timestamp="1585758717122">
+      <screen x="-335" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="454" y="-1081" key="SettingsEditor/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585758651251" />
+    <state x="454" y="-1081" key="SettingsEditor/0.23.1792.1097/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585758717122" />
+    <state x="728" y="-935" key="chooseDestDirectoryDialog" timestamp="1585758798715">
+      <screen x="-335" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="728" y="-935" key="chooseDestDirectoryDialog/0.23.1792.1097/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585758798715" />
+  </component>
+</project>

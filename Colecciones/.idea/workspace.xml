@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d15168f-bb76-4bf3-9ff3-04e834fe658c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Colecciones" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zl3XK1X90WxCj03jyzZCWeko1Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.openwebinars.colecciones.queue.a.queue.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AlgoritmosColeccionesApp">
+    <configuration name="AlgoritmosColeccionesApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.openwebinars.colecciones.algoritmos.AlgoritmosColeccionesApp" />
+      <module name="Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.openwebinars.colecciones.algoritmos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.openwebinars.colecciones.map.a.hashmap.HashMapApp" />
+      <module name="Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.openwebinars.colecciones.map.a.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.openwebinars.colecciones.map.b.linkedhashmap.LinkedHashMapApp" />
+      <module name="Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.openwebinars.colecciones.map.b.linkedhashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.openwebinars.colecciones.map.c.treemap.TreeMapApp" />
+      <module name="Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.openwebinars.colecciones.map.c.treemap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnmodifiableCollectionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.openwebinars.colecciones.unmodifiable.UnmodifiableCollectionsApp" />
+      <module name="Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.openwebinars.colecciones.unmodifiable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HashMapApp" />
+      <item itemvalue="Application.LinkedHashMapApp" />
+      <item itemvalue="Application.TreeMapApp" />
+      <item itemvalue="Application.UnmodifiableCollectionsApp" />
+      <item itemvalue="Application.AlgoritmosColeccionesApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AlgoritmosColeccionesApp" />
+        <item itemvalue="Application.UnmodifiableCollectionsApp" />
+        <item itemvalue="Application.TreeMapApp" />
+        <item itemvalue="Application.LinkedHashMapApp" />
+        <item itemvalue="Application.HashMapApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d15168f-bb76-4bf3-9ff3-04e834fe658c" name="Default Changelist" comment="" />
+      <created>1585399892070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585399892070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="225" key="#Project_Structure" timestamp="1585427152617">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="225" key="#Project_Structure/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585427152617" />
+    <state x="709" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1585676108334">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120/-335.-1417.2560.1417@0.0.1792.1120" timestamp="1585425801028" />
+    <state x="678" y="-1086" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585654841916" />
+    <state x="709" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585425650871" />
+    <state x="709" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1585676108334" />
+    <state width="2518" height="519" key="GridCell.Tab.0.bottom" timestamp="1585817543137">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="2518" height="253" key="GridCell.Tab.0.bottom/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585754841153" />
+    <state width="1750" height="253" key="GridCell.Tab.0.bottom/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585485018357" />
+    <state width="1750" height="253" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1585676880760" />
+    <state width="2518" height="519" key="GridCell.Tab.0.bottom/0.23.1792.1017/-335.-1417.2560.1417@0.23.1792.1017" timestamp="1585817543137" />
+    <state width="2518" height="253" key="GridCell.Tab.0.bottom/0.23.1792.1017/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585644752452" />
+    <state width="1750" height="253" key="GridCell.Tab.0.bottom/0.23.1792.1097/-335.-1417.2560.1337@0.23.1792.1097" timestamp="1585764966916" />
+    <state width="2518" height="519" key="GridCell.Tab.0.center" timestamp="1585817543136">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="2518" height="253" key="GridCell.Tab.0.center/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585754841152" />
+    <state width="1750" height="253" key="GridCell.Tab.0.center/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585485018356" />
+    <state width="1750" height="253" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1585676880759" />
+    <state width="2518" height="519" key="GridCell.Tab.0.center/0.23.1792.1017/-335.-1417.2560.1417@0.23.1792.1017" timestamp="1585817543136" />
+    <state width="2518" height="253" key="GridCell.Tab.0.center/0.23.1792.1017/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585644752451" />
+    <state width="1750" height="253" key="GridCell.Tab.0.center/0.23.1792.1097/-335.-1417.2560.1337@0.23.1792.1097" timestamp="1585764966914" />
+    <state width="2518" height="519" key="GridCell.Tab.0.left" timestamp="1585817543133">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="2518" height="253" key="GridCell.Tab.0.left/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585754841151" />
+    <state width="1750" height="253" key="GridCell.Tab.0.left/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585485018355" />
+    <state width="1750" height="253" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1585676880758" />
+    <state width="2518" height="519" key="GridCell.Tab.0.left/0.23.1792.1017/-335.-1417.2560.1417@0.23.1792.1017" timestamp="1585817543133" />
+    <state width="2518" height="253" key="GridCell.Tab.0.left/0.23.1792.1017/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585644752450" />
+    <state width="1750" height="253" key="GridCell.Tab.0.left/0.23.1792.1097/-335.-1417.2560.1337@0.23.1792.1097" timestamp="1585764966811" />
+    <state width="2518" height="519" key="GridCell.Tab.0.right" timestamp="1585817543136">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="2518" height="253" key="GridCell.Tab.0.right/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585754841153" />
+    <state width="1750" height="253" key="GridCell.Tab.0.right/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585485018356" />
+    <state width="1750" height="253" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1585676880760" />
+    <state width="2518" height="519" key="GridCell.Tab.0.right/0.23.1792.1017/-335.-1417.2560.1417@0.23.1792.1017" timestamp="1585817543136" />
+    <state width="2518" height="253" key="GridCell.Tab.0.right/0.23.1792.1017/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585644752451" />
+    <state width="1750" height="253" key="GridCell.Tab.0.right/0.23.1792.1097/-335.-1417.2560.1337@0.23.1792.1097" timestamp="1585764966915" />
+    <state width="2518" height="519" key="GridCell.Tab.1.bottom" timestamp="1585817543139">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.bottom/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585641749513" />
+    <state width="2518" height="519" key="GridCell.Tab.1.bottom/0.23.1792.1017/-335.-1417.2560.1417@0.23.1792.1017" timestamp="1585817543139" />
+    <state width="2518" height="519" key="GridCell.Tab.1.center" timestamp="1585817543138">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.center/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585641749512" />
+    <state width="2518" height="519" key="GridCell.Tab.1.center/0.23.1792.1017/-335.-1417.2560.1417@0.23.1792.1017" timestamp="1585817543138" />
+    <state width="2518" height="519" key="GridCell.Tab.1.left" timestamp="1585817543138">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.left/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585641749511" />
+    <state width="2518" height="519" key="GridCell.Tab.1.left/0.23.1792.1017/-335.-1417.2560.1417@0.23.1792.1017" timestamp="1585817543138" />
+    <state width="2518" height="519" key="GridCell.Tab.1.right" timestamp="1585817543139">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.right/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585641749512" />
+    <state width="2518" height="519" key="GridCell.Tab.1.right/0.23.1792.1017/-335.-1417.2560.1417@0.23.1792.1017" timestamp="1585817543139" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1585414561616">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585414561616" />
+    <state x="573" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1585414518972">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="388" key="com.intellij.ide.util.TipDialog/0.0.1792.1120/-335.-1440.2560.1440@0.0.1792.1120" timestamp="1585414518972" />
+    <state x="573" y="403" key="com.intellij.ide.util.TipDialog/0.23.1792.1097/-335.-1417.2560.1337@0.23.1792.1097" timestamp="1585399899658" />
+    <state width="420" height="330" key="javadoc.popup" timestamp="1585676612918">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585655911936" />
+    <state width="420" height="330" key="javadoc.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1585676612918" />
+    <state x="374" y="-1098" key="new project wizard" timestamp="1585757026820">
+      <screen x="-335" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="374" y="-1098" key="new project wizard/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585757026820" />
+    <state x="610" y="-1109" width="670" height="676" key="search.everywhere.popup" timestamp="1585641501007">
+      <screen x="-335" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="610" y="-1109" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120/-335.-1440.2560.1440@-335.-1440.2560.1440" timestamp="1585641501007" />
+  </component>
+</project>
